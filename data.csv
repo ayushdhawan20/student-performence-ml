@@ -1,0 +1,16 @@
+attendance,study_hours,marks,result
+90,4,85,Pass
+85,3,78,Pass
+80,3,72,Pass
+75,2,65,Pass
+70,2,60,Pass
+65,1,50,Fail
+60,1,45,Fail
+55,1,40,Fail
+50,0,35,Fail
+95,5,90,Pass
+88,4,82,Pass
+68,2,55,Fail
+72,2,62,Pass
+58,1,42,Fail
+45,0,30,Fail
